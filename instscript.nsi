@@ -40,8 +40,8 @@
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "FameSmsExcel.Ver3.0.2.exe"
-InstallDir "$PROGRAMFILES\Coolsms"
+OutFile "FameSmsExcel.Ver3.0.3.exe"
+InstallDir "$PROGRAMFILES\famesms"
 ShowInstDetails show
 ShowUnInstDetails show
 
